@@ -56,7 +56,7 @@ Change master to any desired branch by sending your changes to it.
 
 If you have not cloned an existing repository and want to connect your repository to a remote server, you must add it with:
 ``` sh
-git remote add origin <servidor>
+git remote add origin <server>
 ```
 You are now able to submit your changes to the selected remote server.
 Branched.
