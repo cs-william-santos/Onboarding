@@ -24,11 +24,6 @@ git clone <user>@<server>:</path/to/repository>
 
 Os repositórios locais consistem em três "trees" mantidas pelo git:
 
-* First is your **WORK DIRECTORY** that contains the current files;
-* Second **INDEX** that functions as a temporary area;
-* And, finally, the **HEAD** that points to the last commit.
-Add and confirm.
-
 * Primeiro é o seu **WORK DIRECTORY** que contém os arquivos atuais;
 * Segundo **INDEX** que funciona como uma área temporária;
 * E, finalmente, o **HEAD** que aponta para o último commit.
