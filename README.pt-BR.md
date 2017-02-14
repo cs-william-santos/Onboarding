@@ -38,7 +38,7 @@ Adicione e confirme.
 Para propor as alterações (adicione-as ao Índice), informar o git que você deve controlar o arquivo, use o comando:
 
 ``` sh
-git add <file>
+git add <arquivo>
 git add *
 ```
 
@@ -100,7 +100,7 @@ git merge <branch>
 Em ambos os casos, intercala as alterações automaticamente. Mas, nem sempre acontece e resulta em conflitos. Você precisará resolver a mesclagem desses conflitos manualmente editando os arquivos exibidos pelo git. Depois de alterar, você precisa marcá-los com merge e feito:
 
 ```sh
-git add <file>
+git add <arquivo>
 ```
 Antes de mesclar as alterações, você também pode visualizá-las usando:
 ```sh
@@ -122,7 +122,7 @@ Você pode também usar menos caracteres do id de commit, ele somente precisa se
 
 Se cometer algum erro, você pode sobrescrever as alterações locais usando o commando:
 ```sh
-git checkout -- <file>
+git checkout -- <arquivo>
 ```
 Isso substitui como em sua árvore com o conteúdo mais recente. Alterações adicionadas ao índice, bem como novos arquivos serão mantidas.
 
