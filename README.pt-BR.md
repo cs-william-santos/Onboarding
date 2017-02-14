@@ -1,4 +1,4 @@
-# Guia prático do  GIT
+# Guia prático
 
 ### Comandos principais do GIT
 
