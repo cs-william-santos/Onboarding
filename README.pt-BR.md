@@ -1,10 +1,11 @@
-# Pratical GIT
+# Guia prático do  GIT
 
 ### Comandos principais do GIT
 
 Ao longo deste documento, teremos uma breve explicação para facilitar o entendimento.
 
 **Criar um repositório** 
+
 Crie um novo diretório e em seguida digite o comando:
 
 
